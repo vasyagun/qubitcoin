@@ -10,7 +10,7 @@
 wget https://raw.githubusercontent.com/vasyagun/qubitcoin/main/setup_docker_run.sh
 chmod +x setup_docker_run.sh
 ./setup_docker_run.sh bc1qr7... qubitcoin.luckypool.io:8611
-
+```
 
 
 
